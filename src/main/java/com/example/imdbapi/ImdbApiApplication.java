@@ -18,7 +18,7 @@ import java.util.List;
 @SpringBootApplication
 public class ImdbApiApplication {
 
-    private static final String api_key = "k_t9woiodr";
+    private static final String api_key = "x";
     public static void main(String[] args) throws IOException, InterruptedException {
         SpringApplication.run(ImdbApiApplication.class, args);
 
